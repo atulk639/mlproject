@@ -3,9 +3,5 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost
 xgboost
 Flask
-ipykernel
-
-# -e .
